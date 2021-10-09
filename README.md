@@ -1,2 +1,2 @@
 # Final-Grade-Calculator
-Calculates the final grade needed for a desired course grade
+Determines the final grade needed for a desired course grade
